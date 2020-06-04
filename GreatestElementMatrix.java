@@ -23,7 +23,7 @@ public class GreatestElementMatrix {
 			}
 		}
 			
-		System.out.println("The biggest number in the given array is " + max);
+		System.out.println("The biggest number in the given array is " +max);
 		
 	}
 
